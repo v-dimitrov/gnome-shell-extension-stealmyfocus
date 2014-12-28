@@ -1,18 +1,19 @@
 {
-  "description": "Let windows steal focus. Removes the annoying 'Window is ready' notification and focus window immediately - Fork of Steal-My-Focus with updated version support",
-  "name": "StealFocus",
-  "original-authors": [
-     "kagesenshi.87@gmail.com","stuart.stent@gmail.com"
-  ],
-  "shell-version": [
-    "3.4", 
-    "3.6", 
-    "3.8", 
-    "3.10",
-    "3.10.4",
-    "3.12"
-  ],
-  "url": "https://github.com/sstent/gnome-shell-extension-stealmyfocus",
-  "uuid": "stealfocus@sstent.org",
-  "version": 1
+	"description": "It removes the 'Window is ready' notification and puts the window immediately into focus instead.",
+	"name": "Steal Focus",
+	"shell-version": [
+		"3.4", 
+		"3.6", 
+		"3.8", 
+		"3.10",
+		"3.12",
+		"3.14"
+	],
+	"url": "https://github.com/Edenhofer/gnome-shell-extension-stealfocus",
+	"uuid": "stealfocus@sstent.org",
+	"original-authors": [
+		"kagesenshi.87@gmail.com",
+		"stuart.stent@gmail.com"
+	],
+	"version": 1
 }
