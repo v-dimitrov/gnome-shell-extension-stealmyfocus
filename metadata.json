@@ -9,7 +9,7 @@
 		"3.12",
 		"3.14"
 	],
-	"url": "https://github.com/Edenhofer/gnome-shell-extension-stealfocus",
+	"url": "https://github.com/sstent/gnome-shell-extension-stealfocus",
 	"uuid": "stealfocus@sstent.org",
 	"original-authors": [
 		"kagesenshi.87@gmail.com",
