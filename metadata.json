@@ -1,10 +1,10 @@
 {
-  "description": "Removes window is ready message and focuses the window instead",
-  "name": "Focus my window",
+  "description": "Removes `window is ready` message and focuses the window instead",
+  "name": "steal my focus window",
   "shell-version": [
     "45"
   ],
   "url": "https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus",
-  "uuid": "focus-my-window@varianto25.com",
+  "uuid": "steal-my-focus-window@varianto25.com",
   "version": 6
 }
