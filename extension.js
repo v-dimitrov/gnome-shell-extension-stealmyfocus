@@ -10,5 +10,6 @@ export default class FocusMyWindow extends Extension {
 
     disable() {
         global.display.disconnect(this._handlerid);
+        this._handlerid = null;
     }
 }
