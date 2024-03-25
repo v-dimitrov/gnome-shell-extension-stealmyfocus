@@ -1,7 +1,7 @@
 {
   "name": "Steal my focus window",
   "description": "Remove the 'window is ready' message and focus the window instead. This is a fork of the 'Steal My Focus' extension to add GNOME 45 support.",
-  "shell-version": ["45"],
+  "shell-version": ["45", "46"],
   "url": "https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus",
   "uuid": "steal-my-focus-window@steal-my-focus-window"
 }
